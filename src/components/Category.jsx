@@ -52,7 +52,7 @@ const SLink = styled(NavLink)`
   }
   svg {
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
   &.active {
     background: linear-gradient(to right, #f27121, #e94057);
